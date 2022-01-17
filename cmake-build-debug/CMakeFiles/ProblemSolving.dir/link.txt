@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ProblemSolving.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\ProblemSolving.dir/objects.a @CMakeFiles\ProblemSolving.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\ProblemSolving.dir/objects.a -Wl,--no-whole-archive -o ProblemSolving.exe -Wl,--out-implib,libProblemSolving.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProblemSolving.dir\linklibs.rsp
